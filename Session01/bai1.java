@@ -2,7 +2,7 @@ package Session01;
 import  java.util.Scanner;
 
 public class bai1 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
         System.out.print("Nhập mã sách: ");
         String BookId = scanner.nextLine();
