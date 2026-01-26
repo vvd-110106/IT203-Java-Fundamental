@@ -30,4 +30,5 @@ bin/
 .DS_Store
 out
 *.iml
+src/Session01/
 .idea/*
