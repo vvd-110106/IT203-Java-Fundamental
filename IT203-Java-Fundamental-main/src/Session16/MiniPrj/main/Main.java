@@ -1,8 +1,9 @@
 package src.Session16.MiniPrj.main;
 
-import petKingDom.model.Pet;
-import petKingDom.model.Customer;
-import petKingDom.manager.*;
+import src.Session16.MiniPrj.model.Pet;
+import src.Session16.MiniPrj.model.Customer;
+import src.Session16.MiniPrj.manager.*;
+
 
 import java.util.Scanner;
 
