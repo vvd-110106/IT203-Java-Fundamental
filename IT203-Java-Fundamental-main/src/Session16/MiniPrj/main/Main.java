@@ -1,4 +1,4 @@
-package petKingDom.main;
+package src.Session16.MiniPrj.main;
 
 import petKingDom.model.Pet;
 import petKingDom.model.Customer;

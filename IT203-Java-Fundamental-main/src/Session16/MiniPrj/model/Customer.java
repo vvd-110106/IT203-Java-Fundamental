@@ -1,4 +1,4 @@
-package petKingDom.model;
+package src.Session16.MiniPrj.model;
 
 public class Customer {
     private String customerId;
